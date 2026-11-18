@@ -1,0 +1,11 @@
+{
+  "hidden_layers": [
+    64,
+    64,
+    32
+  ],
+  "iterations": 76,
+  "train_rows": 14000,
+  "val_rows": 3000,
+  "test_rows": 3000
+}
